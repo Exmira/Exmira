@@ -10,7 +10,6 @@ I’m a full-stack developer with a deep love for **Ruby on Rails**, crafting cl
 ## 🎥 What I Do
 - 📺 **YouTube Educator** – Teaching Rails concepts, building real-world apps, and breaking down complex topics into bite-sized lessons.  
 - 💻 **Full-Stack Developer** – Building apps with **Ruby on Rails**, **Hotwire**, **PostgreSQL**, **Tailwind CSS**, and more.  
-- 🛠 **Open Source Contributor** – Supporting the Rails community by creating tools, snippets, and tutorials.  
 
 ---
 
@@ -38,7 +37,6 @@ My goal? To **help more developers fall in love with Rails** by making learning 
 
 ## 📫 Let’s Connect!
 - 🎥 **YouTube:** [Malachi Rails](https://youtube.com/@MalachiRails)  
-- 🐦 **Twitter/X:** [@MalachiRails](https://twitter.com/MalachiRails)  
-- 💼 **LinkedIn:** [Malachi Asgharian](https://linkedin.com/in/malachi-asgharian)  
+- 💼 **LinkedIn:** [Malachi Asgharian][(https://linkedin.com/in/malachi-asgharian](https://www.linkedin.com/in/malachi-asgharian-87aa4523a/))  
 - 🌐 **Website:** [malachirails.com](https://malachirails.com)  
 
