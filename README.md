@@ -1,12 +1,5 @@
 # 👋 Hi there, I’m Malachi  
 ---
-
-## 🎥 What I Do
-- 📺 **YouTube Educator** – Teaching Rails concepts, building real-world apps, and breaking down complex topics into bite-sized lessons.  
-- 💻 **Full-Stack Developer** – Building apps with **Ruby on Rails**, **Hotwire**, **PostgreSQL**, **Tailwind CSS**, and more.  
-
----
-
 ## 🚀 My Mission
 I believe Rails is one of the most elegant web frameworks ever created.  
 My goal? To **help more developers fall in love with Rails** by making learning approachable, practical, and fun.  
@@ -20,17 +13,19 @@ My goal? To **help more developers fall in love with Rails** by making learning 
 
 ---
 
-## 🛠 Tech I Use
+## 📫 Let’s Connect!
+- 🎥 **YouTube:** [Malachi Rails](https://youtube.com/@MalachiRails)  
+- 💼 **LinkedIn:** [Malachi Asgharian][(https://linkedin.com/in/malachi-asgharian](https://www.linkedin.com/in/malachi-asgharian-87aa4523a/))  
+- 🌐 **Website:** [malachirails.com](https://malachirails.com)
+
+
+---
+
+- ## 🛠 Tech I Use
 **Languages & Frameworks**  
 `Ruby` `Rails` `JavaScript` `HTML` `CSS`  
 
 **Tools & Platforms**  
 `PostgreSQL` `Hotwire` `Turbo` `StimulusJS` `Tailwind CSS` `Git` `Heroku` `Render`  
 
----
-
-## 📫 Let’s Connect!
-- 🎥 **YouTube:** [Malachi Rails](https://youtube.com/@MalachiRails)  
-- 💼 **LinkedIn:** [Malachi Asgharian][(https://linkedin.com/in/malachi-asgharian](https://www.linkedin.com/in/malachi-asgharian-87aa4523a/))  
-- 🌐 **Website:** [malachirails.com](https://malachirails.com)  
 
