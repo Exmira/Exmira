@@ -1,10 +1,4 @@
-# 👋 Hey there, I’m Malachi Asgharian  
-
-### aka **Malachi Rails** — Ruby on Rails Enthusiast & Content Creator  
-
-Welcome to my corner of GitHub!  
-I’m a full-stack developer with a deep love for **Ruby on Rails**, crafting clean, maintainable code and sharing the journey with thousands of learners through my **YouTube channel**.  
-
+# 👋 Hi there, I’m Malachi  
 ---
 
 ## 🎥 What I Do
