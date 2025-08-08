@@ -15,7 +15,7 @@ My goal? To **help more developers fall in love with Rails** by making learning 
 
 ## 📫 Let’s Connect!
 - 🎥 **YouTube:** [Malachi Rails](https://youtube.com/@MalachiRails)  
-- 💼 **LinkedIn:** [Malachi Asgharian][(https://linkedin.com/in/malachi-asgharian](https://www.linkedin.com/in/malachi-asgharian-87aa4523a/))  
+- 💼 **LinkedIn:** [Malachi Asgharian](https://linkedin.com/in/malachi-asgharian-87aa4523a)
 - 🌐 **Website:** [malachirails.com](https://malachirails.com)
 
 
